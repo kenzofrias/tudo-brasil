@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+:root{
+    --color-header-01: #154379;
+    --color-header-02: #34A0E7;
+    --color-header-03: #51A436;
+    --color-header-04: #ffffff;
+    --color-header-05: #151515;
+}
+
+header{
+    background-image: radial-gradient(circle, var(--color-header-02), var(--color-header-01));
+    height: 80px;
+    width: 100%;
+
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+    align-items: center;
+
+    overflow: hidden;
+
+    box-shadow: 0px 1.5px 5px var(--color-header-05);
+}
+header a{
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+    align-items: center;
+}
+header a img{
+    width: 60%;
+}
