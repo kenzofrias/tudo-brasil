@@ -13,11 +13,10 @@ footer{
     text-align: center;
     color: var(--color-footer-04);
 
-    padding: .5rem;
+    padding: 1.5rem;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    
 }
 footer p{
     margin: 0;
@@ -41,7 +40,7 @@ footer img{
         flex-flow: row wrap;
         justify-content: space-between;
         align-items: center;
-        padding: .5rem 15rem;
+        padding: 1.5rem 15rem;
     }
     
     footer div, p{
