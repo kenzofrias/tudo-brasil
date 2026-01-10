@@ -1,5 +1,15 @@
-# 🌐 Site de notícias TudoBrasil
-<p>
+
+<h1 align="center">🌐 Site de notícias TudoBrasil </h1> 
+<div align="center">
+  
+  [![stargazers](https://img.shields.io/github/stars/kenzofrias/tudo-brasil)](https://github.com/kenzofrias/tudo-brasil/stargazers)
+  [![forks](https://img.shields.io/github/forks/kenzofrias/tudo-brasil)](https://github.com/kenzofrias/tudo-brasil/network/members)
+  [![issues](https://img.shields.io/github/issues/kenzofrias/tudo-brasil?color=2b58de)](https://github.com/kenzofrias/tudo-brasil/issues)
+  [![license](https://img.shields.io/github/license/kenzofrias/tudo-brasil?color=2b58de)](https://github.com/kenzofrias/tudo-brasil/blob/master/LICENSE)
+
+</div>
+
+<p align="center">
   Bem-vindo ao meu projeto de site de notícias TudoBrasil. Nele vocês podem observar 100 notícias sempre atualizadas do Brasil.<br>
   Este projeto foi desenvolvido de forma totalmente autoral para aperfeiçoar meus conhecimentos sobre api's em Javascript, 
   desmonstrando por meio da <a href="https://newsapi.org/">NewsAPI</a> notícias adquiridas do território brasileiro.
